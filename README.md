@@ -8,7 +8,6 @@
 <a href="https://dev.to/acolum" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 <a href="https://twitter.com/alycolumbus" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://github.com/acolum/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
-<img src="https://visitor-badge.glitch.me/badge?page_id=acolum.acolum" alt="visitor badge"/>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
